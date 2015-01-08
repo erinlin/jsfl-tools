@@ -20,7 +20,7 @@ To run, in Flash, select Commands -> The one you pasted.
 
 
 ## 1.Export MovieClip For TexturePacker.jsfl
-Exports vaild .swf format from MovieClip for [TexturePacker](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB4QFjAA&url=https%3A%2F%2Fwww.codeandweb.com%2Ftexturepacker&ei=PyuuVN2yBc7M8gXq84LoAg&usg=AFQjCNGWrt0Y-He_uy9yGX5bHnD3taszqA&sig2=RR83frJxwMGmLXdfpK_bfQ) or other 3rd party spritesheet packer softwares.
+Exports vaild .swf format from MovieClip for [TexturePacker](https://www.codeandweb.com/texturepacker) or other 3rd party spritesheet packer softwares.
 
 You can output all MovieClip instances in frame 1 of main timeline. Or just select MovieClip instances you want to export.
 
